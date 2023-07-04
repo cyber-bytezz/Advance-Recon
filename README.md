@@ -43,11 +43,15 @@ To get started with the Hacking Toolbox, follow these steps:
    ```
    git clone https://github.com/cyber-bytezz/hacking-toolbox.git
    ```
-2. Make the script executable:
+2.Change to the project directory:
+  ```
+  cd hacking-toolbox
+  ```   
+3. Make the script executable:
    ```
    chmod +x hack.sh
    ```
-3. Run the script:
+4. Run the script:
    ```
    ./hack.sh
    ```
