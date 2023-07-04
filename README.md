@@ -1,6 +1,6 @@
  
 <!-- Project Title -->
-<h1 align="center">Hacking Toolbox</h1>
+<h1 align="center">Hacking Toolbox-v1.0</h1>
 
 <!-- Project Description -->
 <p align="center">
@@ -41,15 +41,15 @@ To get started with the Hacking Toolbox, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/hacking-toolbox.git
+   git clone https://github.com/cyber-bytezz/hacking-toolbox.git
    ```
 2. Make the script executable:
    ```
-   chmod +x script.sh
+   chmod +x hack.sh
    ```
 3. Run the script:
    ```
-   ./script.sh
+   ./hack.sh
    ```
 4. Follow the on-screen instructions to choose the type of hack you want to perform.
 
@@ -88,9 +88,9 @@ Contributions are welcome and appreciated! To contribute to the Hacking Toolbox,
 5. Open a pull request.
 
 <!-- License -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
+## RED TEAM
+```HAPPY HACKING```
+```Adding More Tools For Red-Team```
 
 <!-- Acknowledgements -->
 ## Acknowledgements
@@ -104,4 +104,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Feel free to modify and customize the README.md file further to suit your preferences. Add more sections, improve formatting, and provide additional details about your project. Good luck with your repository!
 ```
 
-Now the table of contents includes links that allow users to navigate directly to the corresponding sections by clicking on them.
+
